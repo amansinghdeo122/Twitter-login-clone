@@ -257,20 +257,21 @@ a{
   }
 
   .left-page {
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    /* align-items: center; */
     height: auto;
     width: 100%;
   }
 
   .left-page img {
-    width: 90px;
-    height: 90px;
+    width: 80px;
+    height: 80px;
   }
 
   .rght-page {
     padding: 1rem;
     width: 100%;
+    height: 550px;
   }
 
   .rght-page h1 {
